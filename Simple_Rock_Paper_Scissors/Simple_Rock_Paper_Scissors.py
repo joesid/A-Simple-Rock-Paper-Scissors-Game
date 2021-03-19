@@ -1,5 +1,6 @@
 import random
-#a comment
+
+#game logic
 def logic(user):
      #log = dict(r = 'rock', )
     log=[1,2,3,4]
