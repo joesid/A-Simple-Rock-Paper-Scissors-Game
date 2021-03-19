@@ -1,5 +1,6 @@
 import random
 
+#game logic
 def logic(user):
      #log = dict(r = 'rock', )
     log=[1,2,3,4]
@@ -32,7 +33,7 @@ def logic(user):
         pass
 
     
-    #main func
+
 def main():
     print("you are playing rock paper scissors /n")
     user = input(" 'r' for rock, p for paper, s for Scissors ")
